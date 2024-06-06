@@ -1,0 +1,3 @@
+.ipynb_checkpoints/*
+run_bmv2_s1.sh
+uploader.sh
